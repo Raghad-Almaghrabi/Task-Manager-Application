@@ -31,7 +31,7 @@ CREATE TABLE tasks (
 ## Screenshots
 
 ### Create Task
-![postman-create](Task-Manager-Application/screenshots/postman-create.png)
+![postman-create](screenshots/postman-create.png)
 
 ### Get All Tasks
 ![Get All Tasks](screenshots/postman-read.png)
