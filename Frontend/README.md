@@ -1,4 +1,4 @@
-# Task Manager - Frontend
+# Task Manager Application - Backend
 
 A React frontend for the Task Manager application that connects to the Express backend API.
 
